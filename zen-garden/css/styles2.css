@@ -1,0 +1,58 @@
+body{
+background-color: #003333;
+font-family: 'Poiret One', cursive;
+}
+
+h1{
+position: relative;
+left: 450px;
+font-size: 70px;
+color: white;
+
+}
+
+h2{
+position: relative;
+left: 625px;
+font-size: 40px;
+color: white;
+}
+
+p, ul{
+list-style-type: none;
+color: white;
+font-size: 20px
+}
+
+p span{
+font-size: 28px;
+font-family: 'Poiret One', cursive;
+}
+
+li{
+padding: 10px;
+}
+
+a{
+position: relative;
+left: 490px;
+text-decoration: none;
+color: #006666;
+font-size: 20px;
+}
+
+a:hover{
+text-decoration: none;
+color: white;
+}
+
+
+#nav{
+position: absolute;
+top: 10px;
+left: -500px;
+}
+#nav: hover{
+color: black;
+}
+
