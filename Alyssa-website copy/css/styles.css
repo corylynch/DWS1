@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+}
+#page {
+    max-width: 1000px;
+    min-width: 700px;
+    min-height: 700px;
+    margin: 0px auto 20px auto;
+    font-family: 'Poiret One', 'Arial', regular;
+    border-color: grey;
+    border-style: solid;
+    border-width: 0px 2px 0px 2px;
+}
+#logo{
+    display: block;
+    width: 500px;
+    margin: 0px auto 10px 325px;
+}
+
+#nav {
+    width: 700px;
+    margin: 10px auto 10px auto;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px 0px 1px 0px;
+}
+address{
+    margin-top: 50px;
+    font-size: 20px;
+}
+#mail{
+    color: darkcyan;
+}
+
+a{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: grey;
+}
+
+#nav li{
+    text-decoration: none;
+    display: inline;
+    color: black;
+    list-style-type: none;
+    font-size: 33px;
+    margin-right: 50px;
+
+}
+p{
+    width: 700px;
+    margin: 30px auto 50px auto;
+}
+
