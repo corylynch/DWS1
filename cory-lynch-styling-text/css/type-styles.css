@@ -1,0 +1,39 @@
+/* colors from http://hslpicker.com/#0fcbff */
+body{
+font-family: 'Aldrich', sans-serif;
+}
+h1{
+text-align: center;
+font-size: 2.5em;
+color: #AEE3FF;
+letter-spacing: 8px;
+text-shadow: 3px 3px #666666;
+}
+h2{
+color: black;
+text-transform: uppercase;
+font-weight: bold;
+text-shadow: 3px 3px #666666;
+}
+p{
+font-family: 'Pathway Gothic One', sans-serif;
+color: hsla(193, 50%, 53%, 1);
+font-size: 1.25em;
+line-height: 1.25em;
+}
+ul{
+text-align: right;
+list-style-type: none;
+}
+li{
+display: inline;
+color: #darkcyan;
+}
+a, a:visited, a:active{
+text-decoration:none;
+font-size: 20px;
+color:black;
+}
+a:hover{
+color: white;
+}
