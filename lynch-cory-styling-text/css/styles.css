@@ -1,0 +1,46 @@
+/* colors from http://hslpicker.com/#0fcbff */
+body{
+background-color: rgba(90,148,178, .5);
+}
+#page{
+width: 1000px;
+margin: 0px auto 0px auto;
+padding: 0px 10px 0px 10px;
+border-style: solid;
+border-color: #AEE3FF;
+border-width: 0px 2px 0px 2px;
+}
+h1{
+margin: -10px 0 0 0;
+border-radius: 5px;
+background-color: #000000;
+opacity: .5;
+padding: 20px;
+color: #AEE3FF;
+}
+h2{
+width: 700px;
+margin: 10px auto 10px auto;
+color: black;
+}
+p{
+color: hsla(193, 50%, 53%, 1);
+width: 700px;
+margin: 10px auto 10px auto;
+}
+ul{
+background-color: grey;
+padding: 5px 5px 0 5px;
+border-radius: 12px;
+}
+li{
+display: inline;
+color: #darkcyan;
+margin: 0 110px 0 auto;
+}
+a{
+color:black;
+}
+a:hover{
+color: white;
+}

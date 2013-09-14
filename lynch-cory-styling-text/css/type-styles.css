@@ -4,17 +4,20 @@ font-family: 'Aldrich', sans-serif;
 }
 h1{
 text-align: center;
-font-size: 3.5em;
+font-size: 2.5em;
+color: #AEE3FF;
 letter-spacing: 8px;
+text-shadow: 3px 3px #666666;
 }
 h2{
 color: black;
 text-transform: uppercase;
 font-weight: bold;
+text-shadow: 3px 3px #666666;
 }
 p{
 font-family: 'Pathway Gothic One', sans-serif;
-color: black;
+color: hsla(193, 50%, 53%, 1);
 font-size: 1.25em;
 line-height: 1.25em;
 }
@@ -32,5 +35,5 @@ font-size: 20px;
 color:black;
 }
 a:hover{
-color: grey;
+color: white;
 }
