@@ -4,5 +4,5 @@
 \margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
 
-\f0\fs24 \cf0 git repo:{\field{\*\fldinst{HYPERLINK "https://github.com/corylynch/DWS1"}}{\fldrslt https://github.com/corylynch/DWS1}}\
-git link: {\field{\*\fldinst{HYPERLINK "http://corylynch.github.io/DWS1/css-color/color.html#spyder4"}}{\fldrslt http://corylynch.github.io/DWS1/css-color/color.html#spyder4}}}
+\f0\fs24 \cf0 git repo:{\field{\*\fldinst{HYPERLINK "https://github.com/corylynch/DWS1/tree/gh-pages"}}{\fldrslt https://github.com/corylynch/DWS1/tree/gh-pages}}\
+box model link: {\field{\*\fldinst{HYPERLINK "http://corylynch.github.io/DWS1/Box%20model/box-model.html"}}{\fldrslt http://corylynch.github.io/DWS1/Box%20model/box-model.html}}}
