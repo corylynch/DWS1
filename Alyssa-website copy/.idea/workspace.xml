@@ -4,9 +4,9 @@
     <list default="true" id="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" name="Default" comment="" />
     <ignored path="Practice_website2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379209897254" ignored="false" />
+    <file path="/index.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379213914993" ignored="false" />
     <file path="/Template copy.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1378938791220" ignored="false" />
-    <file path="/styles.css" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379211158834" ignored="false" />
+    <file path="/styles.css" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379214660587" ignored="false" />
     <file path="/index copy.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1378955367042" ignored="false" />
     <file path="/contact.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1378959602292" ignored="false" />
     <file path="/box-model.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379209788509" ignored="false" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="40" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.6136364">
+            <state line="11" column="51" selection-start="223" selection-end="223" vertical-scroll-proportion="0.25">
               <folding />
             </state>
           </provider>
@@ -41,7 +41,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="11" selection-start="2604" selection-end="2604" vertical-scroll-proportion="-20.0">
+            <state line="15" column="24" selection-start="491" selection-end="491" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
@@ -290,9 +299,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../DWS1/cory-lynch-styling-text/box-model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="104" selection-start="3427" selection-end="3427" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="29" column="104" selection-start="3427" selection-end="3427" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
@@ -318,9 +325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../DWS1/cory-lynch-styling-text/box-model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="104" selection-start="3427" selection-end="3427" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="29" column="104" selection-start="3427" selection-end="3427" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
@@ -365,30 +370,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DWS1/cory-lynch-styling-text/box-model.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="430" selection-end="430" vertical-scroll-proportion="0.3130016">
+        <state line="13" column="11" selection-start="430" selection-end="430" vertical-scroll-proportion="0.3130016" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="-11.25">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="11" selection-start="2604" selection-end="2604" vertical-scroll-proportion="-20.0">
+        <state line="15" column="24" selection-start="491" selection-end="491" vertical-scroll-proportion="-9.375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="40" selection-start="1325" selection-end="1325" vertical-scroll-proportion="0.6136364">
+        <state line="11" column="51" selection-start="223" selection-end="223" vertical-scroll-proportion="0.25">
           <folding />
         </state>
       </provider>

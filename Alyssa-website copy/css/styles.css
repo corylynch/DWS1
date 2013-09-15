@@ -1,5 +1,5 @@
 body{
-   background-image: url('../images/typewriter.gif');
+   background-image: url('../images/typewriter.png');
    background-repeat: no-repeat;
    background-attachment: fixed;
 }
@@ -68,6 +68,7 @@ a:hover{
     list-style-type: none;
     font-size: 33px;
     margin-right: 50px;
+    z-index: 100;
 }
 p{
     width: 700px;
