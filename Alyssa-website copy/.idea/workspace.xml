@@ -4,12 +4,14 @@
     <list default="true" id="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" name="Default" comment="" />
     <ignored path="Practice_website2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379267541196" ignored="false" />
+    <file path="/index.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379301243383" ignored="false" />
     <file path="/Template copy.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1378938791220" ignored="false" />
-    <file path="/styles.css" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379267899291" ignored="false" />
+    <file path="/styles.css" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379302138698" ignored="false" />
     <file path="/index copy.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1378955367042" ignored="false" />
-    <file path="/contact.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1378959602292" ignored="false" />
+    <file path="/contact.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379301511199" ignored="false" />
     <file path="/box-model.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379209788509" ignored="false" />
+    <file path="/aboutme.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379301219370" ignored="false" />
+    <file path="/mywork.html" changelist="6b2a09b7-b8ae-4798-b582-a6ade8224e3f" time="1379301585697" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,16 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="21" selection-start="147" selection-end="147" vertical-scroll-proportion="0.09917355">
+            <state line="43" column="16" selection-start="943" selection-end="943" vertical-scroll-proportion="0.49586776">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutme.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aboutme.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="32" selection-start="705" selection-end="705" vertical-scroll-proportion="-12.5">
               <folding />
             </state>
           </provider>
@@ -41,7 +52,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="64" selection-start="679" selection-end="679" vertical-scroll-proportion="-10.333333">
+            <state line="18" column="34" selection-start="657" selection-end="657" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
@@ -50,7 +61,16 @@
       <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="-11.25">
+            <state line="20" column="33" selection-start="697" selection-end="697" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mywork.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mywork.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="97" selection-start="361" selection-end="361" vertical-scroll-proportion="-5.625">
               <folding />
             </state>
           </provider>
@@ -68,9 +88,11 @@
       <list>
         <option value="$PROJECT_DIR$/Template copy.html" />
         <option value="$PROJECT_DIR$/index copy.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/../DWS1/cory-lynch-styling-text/box-model.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/aboutme.html" />
+        <option value="$PROJECT_DIR$/mywork.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
@@ -290,18 +312,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DWS1/cory-lynch-styling-text/box-model.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="104" selection-start="3427" selection-end="3427" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
@@ -375,23 +385,37 @@
         <state line="13" column="11" selection-start="430" selection-end="430" vertical-scroll-proportion="0.3130016" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="64" selection-start="679" selection-end="679" vertical-scroll-proportion="-10.333333">
+        <state line="20" column="33" selection-start="697" selection-end="697" vertical-scroll-proportion="-12.5">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="-11.25">
+        <state line="18" column="34" selection-start="657" selection-end="657" vertical-scroll-proportion="-11.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="32" selection-start="705" selection-end="705" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mywork.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="97" selection-start="361" selection-end="361" vertical-scroll-proportion="-5.625">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="21" selection-start="147" selection-end="147" vertical-scroll-proportion="0.09917355">
+        <state line="43" column="16" selection-start="943" selection-end="943" vertical-scroll-proportion="0.49586776">
           <folding />
         </state>
       </provider>

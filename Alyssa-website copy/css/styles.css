@@ -38,6 +38,12 @@ h1{
     margin: 20px auto 10px auto;
     color: #3B975F;
 }
+h2{
+    margin: 20px 0 0 100px;
+    font-family: 'Handlee', cursive;
+    color: black;
+    font-size: 2em;
+}
 address{
     margin-top: 50px;
     font-size: 20px;
