@@ -1,0 +1,87 @@
+/* colors from http://hslpicker.com/#0fcbff */
+body{
+background-color: #A8DFE8;
+color:  Arial, Verdana, or sans-serif;
+}
+#logo img{
+
+margin: 0 auto 0 auto;
+}
+#page{
+background-color: #B3E875;
+width: 960px;
+margin: 0px auto;
+padding: 0px 10px;
+border-style: solid;
+border-color: white;
+border-width: 0px 2px;
+overflow: auto;
+}
+
+#column1of2, #column2of2{
+width: 280px;
+float: left;
+margin: 5px;
+}
+
+p img{
+float: left;
+margin-right: 20px;
+}
+
+h1{
+font-size: 1.5em;
+width: 700px;
+height: 50px;
+margin: -10px auto 0;
+border-radius: 5px;
+background-color: #A8DFE8;
+padding: 10px;
+color: black;
+border-width: 0 0 5px;
+border-style: solid;
+border-color: black;
+
+}
+h2{
+font-size: 1.33em;
+width: 700px;
+margin: 10px auto;
+color: black;
+background-color:  #A8DFE8;
+border-width: 0 0 5px 0;
+border-style: solid;
+border-color: black;
+padding: 5px 0 0 5px;
+box-shadow: 5px 5px 5px #666666;
+
+}
+
+h3{
+font-size: 1.25em; 
+}
+#content{
+width: 700px;
+margin: 10px auto;
+}
+#navigation{
+background-color: #A8DFE8;
+padding: 5px 5px 0;
+border-radius: 12px;
+border: 4px solid black;
+box-shadow: 5px 5px 5px #666666;
+}
+#navigation li{
+display: inline;
+margin: 0 110px 0 auto;
+}
+a, a:visited, a:active{
+margin: 8px;
+text-decoration:none;
+font-size: 20px;
+color:black;
+}
+a:hover{
+color: grey;
+}
+

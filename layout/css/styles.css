@@ -1,0 +1,100 @@
+/* colors from http://hslpicker.com/#0fcbff */
+body{
+    background-color: #A8DFE8;
+    font-family: 'Aldrich', sans-serif;
+    width: 90%;
+    margin: 0 auto;
+}
+#page{
+    background-color: #B3E875;
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 1%;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    overflow: auto;
+}
+
+h1{
+    width: 70%;
+    height: 50px;
+    margin: -10px 15% 0;
+    border-radius: 5px;
+    background-color: #A8DFE8;
+    padding: 10px;
+    color: black;
+    border-bottom: 5px solid black;
+    text-align: center;
+    font-size: 3.5em;
+    letter-spacing: 8px;
+
+}
+h2{
+
+    color: black;
+    background-color:  #A8DFE8;
+    border-width: 0 0 5px 0;
+    border-style: solid;
+    border-color: black;
+    padding: 5px 0 0 5px;
+    box-shadow: 5px 5px 5px #666666;
+    text-transform: uppercase;
+    font-weight: bold;
+
+
+}
+p{
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: black;
+    font-size: 1.25em;
+    line-height: 1.25em;
+}
+ul{
+    background-color: #A8DFE8;
+    padding: 5px 0;
+    border-radius: 12px;
+    border: 4px solid black;
+    box-shadow: 5px 5px 5px #666666;
+    text-align: right;
+    list-style-type: none;
+    overflow: auto;
+}
+li{
+    display: inline;
+    margin: 0 7.5%;
+    color: darkcyan;
+}
+a, a:visited, a:active{
+    text-decoration:none;
+    font-size: 1.25em;
+    color:black;
+
+}
+a:hover{
+    color: grey;
+}
+#cite{
+    clear: left;
+}
+.content, .content2{
+    width: 35%;
+    margin: 2%;
+    float: left;
+    border-bottom: 2px solid white;
+}
+.content2{
+    width: 35%;
+    margin: 2%;
+    float: left;
+    border-bottom: 2px solid white;
+}
+
+#sidenote, #sidenote2{
+width: 15%;
+float: right;
+border: 4px dotted black;
+padding: 0 6px;
+background-color: rgba(255,255,255,.5);
+box-shadow: 5px 5px 5px #666666;
+}
+

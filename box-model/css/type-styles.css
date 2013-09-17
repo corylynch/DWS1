@@ -24,7 +24,7 @@ list-style-type: none;
 }
 li{
 display: inline;
-color: #darkcyan;
+color: darkcyan;
 }
 a, a:visited, a:active{
 text-decoration:none;
