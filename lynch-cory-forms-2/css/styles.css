@@ -1,0 +1,196 @@
+/* colors from http://hslpicker.com/#0fcbff */
+body{
+    background: url('../images/renzler.gif') repeat center;
+    font-family: 'Sansita One', cursive;
+    width: 90%;
+    margin: 0 auto;
+    min-width: 900px;
+}
+#page{
+    background-color: rgba(78,78,78, .93);
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 1%;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    overflow: auto;
+}
+
+header{
+	font-family: 'Seaweed Script', cursive;
+    width: 70%;
+    height: 50px;
+	margin: 0 auto;
+    border-radius: 5px;
+    background-color: rgb(222,76,47);
+    padding: 0 0 20px 0;
+    color: black;
+    border-bottom: 5px solid black;
+    text-align: center;
+    font-size: 3.5em;
+    letter-spacing: 8px;
+
+}
+table{
+	width: 600px;
+	height: 200px;
+	background-color: rgba(222,76,47,.5); 
+	padding: 10px;
+	border: 4px solid black;
+	text-transform: uppercase;
+	margin: 50px auto;
+	box-shadow: 5px 5px 5px #666;
+}
+table th, table td{
+	text-align: right;
+	padding: 10px;
+	border-spacing: 0;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+table td{
+	font-size: .75em;
+}
+h2{
+	height: 45px;
+    color: black;
+    border-bottom: 5px solid black;
+    padding: 20px 0 0 10px;
+    box-shadow: 5px 5px 5px #666666;
+    text-transform: uppercase;
+    font-size: 1.3em;
+    font-weight: bold;
+    border-radius: 3px;
+	background: url('../images/audiicon.png') no-repeat center right;
+
+
+}
+p{
+    font-family: 'Pathway Gothic One', sans-serif;
+    color: black;
+    font-size: 1.25em;
+    line-height: 1.25em;
+}
+nav ul{
+	background: #de4c2f; /* Old browsers */
+	background: -moz-linear-gradient(top, #de4c2f 30%, #b10405 99%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#de4c2f), color-stop(99%,#b10405)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #de4c2f 30%,#b10405 99%); /* Chrome10+,Safari5.1+ */
+	background: -ms-linear-gradient(top, #de4c2f 30%,#b10405 99%); /* IE10+ */
+	background: linear-gradient(to bottom, #de4c2f 30%,#b10405 99%); /* W3C */
+	padding: 5px 25px 0;
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px #666666;
+    text-align: center;
+    list-style-type: none;
+}
+nav li{
+    display: inline-block;
+    min-width: 10%;
+    margin: 0 5%;
+    color: darkcyan;
+}
+a, a:visited, a:active{
+	text-align: center;
+    text-decoration:none;
+    font-size: 1.25em;
+    color:black;
+}
+a:hover{
+    color: grey;
+}
+footer p{
+    clear: left;
+}
+.content, .content2{
+    width: 35%;
+    margin: 2%;
+    float: left;
+    border-bottom: 2px solid white;
+}
+.content2{
+    width: 35%;
+    margin: 2%;
+    float: left;
+    border-bottom: 2px solid white;
+}
+
+aside#sidenote, aside#sidenote2{
+	width: 15%;
+	border: 4px dotted black;
+	padding: 0 5px 0 10px;
+	background-color: rgba(255,255,255,.5);
+	box-shadow: 5px 5px 5px #666666;
+	clear: right;
+}
+
+.content div, .content2 div{
+	background-color:  rgb(222,76,47);
+}
+
+#form{
+	clear: left;
+	width: 500px;
+	margin: 60px auto;
+	display: block;
+	color: black;
+	background-color: rgba(255,255,255,.5);
+	padding: 10px;
+}
+
+fieldset{
+	padding: 10px;
+}
+
+legend{
+	
+	color: rgb(222,76,47);
+}
+
+#form div{
+	width: 300px;
+	margin: 20px auto;
+}
+
+#form label{
+	width: 100px;
+	text-align: left;
+	margin: 20px;
+}
+
+#input{
+	width: 120px;
+	float: right;
+}
+
+input:hover, input:focus, textarea:hover, textarea:focus{
+	background-color: grey;
+	border: 1px solid black;
+	padding: 2px;
+}
+
+#textarea{
+	text-align: center;
+}
+
+textarea{
+	margin: 10px auto;
+	width: 200px;
+	height: 50px;
+}
+
+#submit{
+	float: right;
+	border: 1px solid white;
+	background: linear-gradient(rgb(222,76,47), rgb(104,37,23));
+	color: #ffffff;
+	padding: 5px;
+	margin-top: 10px;
+	cursor: pointer;
+}
+
+#submit:hover{
+	background: linear-gradient(rgb(104,37,23), rgb(222,76,47));
+}
+
+
